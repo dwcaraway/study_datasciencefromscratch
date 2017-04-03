@@ -1,5 +1,8 @@
 graphviz
 jupyter
+pandas
+matplotlib
+numpy
 
 #for tests
 pytest
